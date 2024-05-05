@@ -10,7 +10,7 @@
     Hello World <br>
     Selamat Datang {{ $nama }} <br>
     <hr>
-    Mencoba memanggil fungsi PHP di blade <br>
+    Mencoba memanggil fungsi PHP di blade. <br>
     Tanggal sekarang {{ date("Y-d-m H:i:s") }} <br>
     <b>Fungsi date di atas adalah fungsi PHP yang langsung bisa dipanggil tanpa perlu menambahkan tag PHP</b>
     <hr>
